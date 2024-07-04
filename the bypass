@@ -109,7 +109,3 @@ Connection.OnInvoke = function(Message)
    
 end
 local NotifyModule = loadstring(game:HttpGet("https://raw.githubusercontent.com/PeaPattern/notif-lib/main/main.lua"))()
--- Anti Chat Logger
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua", true))()
---Chat Refresh Gui
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UnNamedRBScripts/chat-refresh-gui/main/yes"))()
