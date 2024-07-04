@@ -1,7 +1,3 @@
--- Anti Chat Logger
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua", true))()
---Chat Refresh Gui
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UnNamedRBScripts/chat-refresh-gui/main/yes"))()
 heartasian's bypass v2.0.1
 ► heartasians                   :   BYPASSES, CHAT HOOK, NOTIFICATIONS
 ► suno/headlined/hello-n-bye    :   MORE BYPASSES, HOST SCRIPT
@@ -113,3 +109,7 @@ Connection.OnInvoke = function(Message)
    
 end
 local NotifyModule = loadstring(game:HttpGet("https://raw.githubusercontent.com/PeaPattern/notif-lib/main/main.lua"))()
+-- Anti Chat Logger
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua", true))()
+--Chat Refresh Gui
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnNamedRBScripts/chat-refresh-gui/main/yes"))()
