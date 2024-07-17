@@ -110,3 +110,4 @@ Connection.OnInvoke = function(Message)
    
 end
 local NotifyModule = loadstring(game:HttpGet("https://raw.githubusercontent.com/PeaPattern/notif-lib/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnNamedRBScripts/Play-Button-Sound/main/play"))()
